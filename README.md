@@ -1,6 +1,6 @@
 # Detecting Autistic Behaviors via Video Analysis
 
-## 👩🏻‍💻 Developed By
+## 👩🏼‍💻👩🏻‍💻👩🏽‍💻 Developed By
 - [Sude Güzel (me)](https://github.com/sdgzl)
 - [Merve Saltık](https://github.com/mervesaltik)
 - [Aleyna Menekşe](https://github.com/Aleynamnks)  
